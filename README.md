@@ -3,7 +3,7 @@
 ### App Description
 `TODO://` Simple android mobile application that changes text color by tapping button.
 
-<img src="![](https://i.imgur.com/XvbNnXt.gif)" width=200><br>
+<img src="https://i.imgur.com/GSc8XQL.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
